@@ -1,6 +1,7 @@
 # Data_Analysis_Internship
 
 Power BI Dashboard
+
 1)Amazon Sales Data Analysis
    Sales anlysis of diffrent city, type of order, revenue and profit.This insight is helpfull to solve the business problems and make broader impact
    
