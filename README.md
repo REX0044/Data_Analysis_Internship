@@ -14,3 +14,7 @@ This report showes the diversity of the crop.Diffrent state wise crop distributa
   
 4)FDI Data Analysis
   This showes the FDI investment in the diffrent sectors which gives insight about the investor strtegy which sectors them favours the most.
+
+All this project really help me to analysis the data and diiffrent data anlysssi technique loke descriptive, dignostic,predictive, prescrinved.
+I also get hands on experience with excel, powerbi  tableu this really help me to level up my skills.
+
